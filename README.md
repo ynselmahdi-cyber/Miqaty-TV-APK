@@ -4,6 +4,21 @@
 
 **Miqaty** is a free, privacy-first Islamic companion application built specifically for **Android TV** and **Google TV** devices. It delivers accurate offline prayer times, automatic Adhan alerts, Quran streaming, Adhkar, Qibla direction, and local Mosque/Halal food discovery—all controllable via your TV remote (D-Pad) with **zero ads, zero tracking, and no account required**.
 
+## 📸 Screenshots
+
+<p align="center">
+  <img src="miqaty_home_eng.png" width="48%" alt="Miqaty Home Screen" />
+  <img src="miqaty_adhan_screen.png" width="48%" alt="Miqaty Adhan Screen" />
+</p>
+<p align="center">
+  <img src="miqaty_choose_your_themes.png" width="48%" alt="Miqaty Themes" />
+  <img src="miqaty_mosques_maps.png" width="48%" alt="Mosques & Halal Map" />
+</p>
+<p align="center">
+  <img src="miqaty_weather_screen.png" width="48%" alt="Weather & Air Quality" />
+  <img src="miqaty_troubleshooting.png" width="48%" alt="System Diagnostics" />
+</p>
+
 ---
 
 ## 📥 Quick Installation (Android TV / Google TV)

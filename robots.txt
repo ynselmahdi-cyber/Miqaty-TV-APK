@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ynselmahdi-cyber.github.io/Miqaty-TV-APK/sitemap.xml

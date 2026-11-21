@@ -1,0 +1,31 @@
+# Miqaty (ميقاتي)
+
+> Miqaty is a free, ad-free Islamic prayer times, Adhan, and Quran application built natively for Android TV and Google TV devices, featuring offline prayer calculations, automated background Adhan alarms, floating screen overlays, and D-Pad remote navigation.
+
+## Core Identity & Links
+- **Application Name:** Miqaty (Arabic: ميقاتي)
+- **Category:** Islamic Lifestyle / Prayer Times & Adhan / Android TV Utility
+- **Platform:** Android TV & Google TV (Android 8.0 / API 26 through Android 14 / API 34)
+- **Package Name:** `com.ynselmahdi.miqaty.tv`
+- **Pricing & Business Model:** Completely free; no ads, no subscriptions, no in-app purchases, and no analytics or user tracking.
+- **Official Distribution Repository:** https://github.com/ynselmahdi-cyber/Miqaty-TV-APK
+- **Latest APK Download (v1.0.0):** https://github.com/ynselmahdi-cyber/Miqaty-TV-APK/releases/download/v1.0.0/Miqaty-1.0.0.apk
+- **AFTVnews Downloader Short Code:** `2676598` (URL: `https://aftv.news/2676598`)
+
+## Verified Features
+- **Offline Prayer Calculation Engine:** Powered by the Batoul Apps Adhan library (`1.2.1`) with an embedded offline city database (`cities.bin`), plus optional GPS/network and IP geolocation (`ipwho.is`, `ipapi.co`). Supports 12 calculation methods (Muslim World League, Umm al-Qura, Egyptian, Karachi, ISNA, Turkey, Kuwait, Qatar, Dubai, Singapore, Tehran, and Custom Fajr/Isha angles), Shafi and Hanafi Asr jurisprudence, and per-prayer minute offsets.
+- **Automated Adhan & Screen Wake:** Uses exact alarms (`AlarmManager`) and a foreground media service to play Adhan reliably on Android TV, waking the screen and displaying synchronized post-Adhan Dua. Includes 7 standard Adhans, 4 Fajr Adhans, 2 Maghribi Adhans, per-prayer volume controls, pre-Adhan alerts, Iqama timers, hourly chimes, and Quiet Hours.
+- **Quran & Adhkar:** Built-in Uthmani Quran reader and audio streaming from 50+ reciters (`mp3quran.net`), Eid Takbirat audio, and offline Morning/Evening Adhkar (including optional automatic playback at Sunrise).
+- **TV-First UI & Floating Overlay:** Full D-Pad remote control support, 12 color themes, 15 clock styles, Hijri/Gregorian dates, and a customizable floating/PiP overlay widget capable of displaying prayer countdowns over the home screen or system screensaver.
+- **Local Utilities:** Offline Qibla direction/distance calculator, OpenStreetMap-based nearby Mosques and Halal food finder, and local weather/air quality forecasts (Open-Meteo).
+- **Languages:** English and Arabic (full Right-to-Left layout support).
+
+## Installation Instructions for Android TV
+1. Install the **Downloader** app by AFTVnews on Android TV or Google TV.
+2. Enable **Install unknown apps** for Downloader in Android TV system settings.
+3. Open Downloader, enter code **`2676598`**, and click **Go** to download and install `Miqaty-1.0.0.apk`.
+
+## Frequently Asked Questions (FAQ)
+- **Does Miqaty work offline?** Yes. Once a city is selected from the built-in database, prayer times, Qibla direction, Adhan audio, and Adhkar work completely offline. Internet is only required for Quran audio streaming, weather forecasts, and nearby mosque/halal map tiles.
+- **Does Miqaty contain ads or track user data?** No. Miqaty contains zero advertising SDKs, zero analytics, and requires no login or account.
+- **Can Miqaty play Adhan automatically when the TV screen is off or idle?** Yes. It uses exact system alarms and foreground playback to wake the TV screen and play the selected Adhan at each prayer time.

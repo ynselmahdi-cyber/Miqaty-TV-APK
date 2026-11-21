@@ -20,6 +20,7 @@
   <img src="miqaty_weather_screen.png" width="48%" alt="الطقس وجودة الهواء" />
   <img src="miqaty_troubleshooting.png" width="48%" alt="فحص إعدادات النظام" />
 </p>
+<img alt="miqaty_ar_troubleshooting.png" data-hpc="true" containertiming="hpc" src="https://github.com/ynselmahdi-cyber/Miqaty-TV-APK/blob/main/miqaty_ar_troubleshooting.png?raw=true" style="max-width: 100%;">
 ---
 
 ## 📥 طريقة التثبيت السريعة على التلفاز (Android TV / Google TV)

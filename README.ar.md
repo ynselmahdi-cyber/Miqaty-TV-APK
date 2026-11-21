@@ -6,6 +6,20 @@
 
 > 🌐 [Read in English](README.md)
 
+## 📸 صور من التطبيق
+
+<p align="center">
+  <img src="miqaty_home_screen.png" width="48%" alt="الشاشة الرئيسية لتطبيق ميقاتي" />
+  <img src="miqaty_adhan_screen.png" width="48%" alt="شاشة الأذان" />
+</p>
+<p align="center">
+  <img src="miqaty_choose_your_themes.png" width="48%" alt="المظاهر والألوان" />
+  <img src="miqaty_mosques_maps.png" width="48%" alt="خريطة المساجد القريبة" />
+</p>
+<p align="center">
+  <img src="miqaty_weather_screen.png" width="48%" alt="الطقس وجودة الهواء" />
+  <img src="miqaty_troubleshooting.png" width="48%" alt="فحص إعدادات النظام" />
+</p>
 ---
 
 ## 📥 طريقة التثبيت السريعة على التلفاز (Android TV / Google TV)
